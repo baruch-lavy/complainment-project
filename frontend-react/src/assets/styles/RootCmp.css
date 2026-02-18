@@ -1,0 +1,6 @@
+.main-container {
+    min-height: calc(100vh - 7rem);
+    
+  font-family: "Poppins", sans-serif;
+  font-optical-sizing: auto;
+}
